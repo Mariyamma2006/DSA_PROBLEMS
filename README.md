@@ -11,6 +11,8 @@ This repository contains my Java solutions for Data Structures and Algorithms pr
 ## Topics Covered
 - Arrays
 - Strings
+- Loop
+- Function
 
 ## Language
 Java
